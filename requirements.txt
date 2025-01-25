@@ -1,0 +1,2 @@
+jupyter
+-e /Users/pictomo/Repositories/HumanAI.io
