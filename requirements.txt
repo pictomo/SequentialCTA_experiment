@@ -1,2 +1,8 @@
 jupyter
+matplotlib
+numpy
+pillow
+pyperclip
+tensorflow
+types-tensorflow
 -e /Users/pictomo/Repositories/HumanAI.io
