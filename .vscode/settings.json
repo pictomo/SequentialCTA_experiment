@@ -1,3 +1,6 @@
 {
-  "python.analysis.extraPaths": ["/Users/pictomo/Repositories/HumanAI.io"]
+  "python.analysis.extraPaths": [
+    "/Users/pictomo/Repositories/HumanAI.io",
+    "/Users/pictomo/Repositories/SequentialCTA_experiment/modules"
+  ]
 }
