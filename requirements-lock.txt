@@ -50,7 +50,7 @@ h5py==3.12.1
 httpcore==1.0.7
 httplib2==0.22.0
 httpx==0.28.1
--e git+https://github.com/pictomo/HumanAI.io.git@4706a3f936b9dc8db2bcd3c50a84a50e827a8cdc#egg=HumanAI.io
+-e git+https://github.com/pictomo/HumanAI.io.git@450bf7942f0db85567615f045a6744c2e1ed0d44#egg=HumanAI.io
 icecream==2.1.4
 idna==3.10
 ipykernel==6.29.5
