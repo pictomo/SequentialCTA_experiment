@@ -7,9 +7,10 @@ import pyperclip
 
 
 def vec_to_img(img_vec: np.ndarray) -> bytes:
+    img_vec = img_vec.astype(np.uint8, copy=False)
     img = Image.fromarray(img_vec)
     output = io.BytesIO()
-    img.save(output, format="PNG")
+    img.save(output, format="PNG", compress_level=9, pnginfo=None)
     return output.getvalue()
 
 
